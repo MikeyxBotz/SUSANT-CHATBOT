@@ -5,7 +5,7 @@ from pyrogram import Client
 import config
 
 
-TEMP_MONGODB = "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
+TEMP_MONGODB = ""
 
 
 if config.MONGO_URL is None:
