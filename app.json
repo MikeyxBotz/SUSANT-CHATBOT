@@ -21,7 +21,7 @@
     "OWNER_ID": {
       "description": "Fill Here Your Owner User Id",
       "required": true,
-      "value": "5536473064"
+      "value": "8156708830"
     },
      "STRING_SESSION": {
       "description": "Fill Here A Pyrogram String Session For Id-Chatbot, Get it from: https://telegram.tools/session-string-generator#pyrogram,user (This is Optional, If you dont want id-chatbot you can skip this variable)",
@@ -31,7 +31,7 @@
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://susantxbotz:vGmf4pFy1MEijuZF@cluster0.viyjnvi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     }
   }
 }
