@@ -5,23 +5,23 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "28164938"
+API_ID = "21134445"
 # -------------------------------------------------------------
-API_HASH = "d53fd90b87686f713f6adc9428bbb6bb"
+API_HASH = "231c18ea7273824491d6bf05425ab74e"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 STRING1 = getenv("STRING_SESSION", None)
-DB_NAME = "iamnobita1"
+DB_NAME = "susantxbotz"
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", "5536473064"))
-BOT_ID = int(getenv("BOT_ID", "7943558810"))
-SUPPORT_GRP = "+wPjAlUcObehiZDM1"
-UPDATE_CHNL = "NOBITA_MUSIC_SUPPORT"
-OWNER_USERNAME = "ll_NOBITA_DEFAULTERS_ll"
+OWNER_ID = int(getenv("OWNER_ID", "8156708830"))
+BOT_ID = int(getenv("BOT_ID", "7303759050"))
+SUPPORT_GRP = "+7WsZh7pyfxZhYmQ1"
+UPDATE_CHNL = "SusantxBotz"
+OWNER_USERNAME = "IM_SUSANT"
 TIME_ZONE = "Asia/Kolkata"
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002344707828"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002267651855")
 # --------------------------------------------------------------
-SUDOERS = list(map(int, getenv("SUDOERS", "5536473064").split()))
+SUDOERS = list(map(int, getenv("SUDOERS", "7968389767").split()))
 # --------------------------------------------------------------
 
 ### DONT TOUCH or EDIT codes after this line
