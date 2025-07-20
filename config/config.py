@@ -19,7 +19,7 @@ SUPPORT_GRP = "+7WsZh7pyfxZhYmQ1"
 UPDATE_CHNL = "SusantxBotz"
 OWNER_USERNAME = "IM_SUSANT"
 TIME_ZONE = "Asia/Kolkata"
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002267651855")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002882421915")
 # --------------------------------------------------------------
 SUDOERS = list(map(int, getenv("SUDOERS", "7968389767").split()))
 # --------------------------------------------------------------
